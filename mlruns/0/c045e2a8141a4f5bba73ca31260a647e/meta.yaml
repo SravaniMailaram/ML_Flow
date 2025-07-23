@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Srava/Desktop/ML%20Flow/mlruns/0/c045e2a8141a4f5bba73ca31260a647e/artifacts
+end_time: 1753248686319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c045e2a8141a4f5bba73ca31260a647e
+run_name: chill-pug-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248681043
+status: 3
+tags: []
+user_id: Srava

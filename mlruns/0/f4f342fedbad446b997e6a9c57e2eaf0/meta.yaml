@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Srava/Desktop/ML%20Flow/mlruns/0/f4f342fedbad446b997e6a9c57e2eaf0/artifacts
+end_time: 1753247643159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4f342fedbad446b997e6a9c57e2eaf0
+run_name: sedate-bee-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753247630740
+status: 3
+tags: []
+user_id: Srava

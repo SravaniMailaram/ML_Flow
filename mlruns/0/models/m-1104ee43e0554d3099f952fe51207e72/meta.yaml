@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Srava/Desktop/ML%20Flow/mlruns/0/models/m-1104ee43e0554d3099f952fe51207e72/artifacts
+creation_timestamp: 1753247631391
+experiment_id: '0'
+last_updated_timestamp: 1753247642887
+model_id: m-1104ee43e0554d3099f952fe51207e72
+model_type: null
+name: model
+source_run_id: f4f342fedbad446b997e6a9c57e2eaf0
+status: 2
+status_message: null
